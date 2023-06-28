@@ -1,0 +1,16 @@
+{
+    "name": "mohammadrezaee/7learn.php",
+    "authors": [
+        {
+            "name": "Mohammad Rezaee"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "hisorange/browser-detect": "^4.5",
+        "catfan/medoo": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {"App\\":"App/"}
+    }
+}
